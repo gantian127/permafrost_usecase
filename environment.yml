@@ -1,0 +1,19 @@
+name: permafrost_usecase
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pymt
+  - cdsapi
+  - pymt_topography
+  - numpy
+  - xarray
+  - cftime
+  - imageio
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+    - pymt-era5
+    - imageio_ffmpeg
+

@@ -1,0 +1,8 @@
+bmi-topography:
+  dem_type: 'COP30'
+  south: 63.84
+  north: 63.92
+  west: -149.29
+  east: -149.21
+  output_format: GTiff
+  cache_dir: "./cache_alaska"
