@@ -12,13 +12,8 @@ If you have any suggestion to improve this notebook, please create a github issu
 [here](https://github.com/gantian127/permafrost_usecase/issues).
 
 
-**Run Notebook**
-
-You can test and run this Jupyter Notebook through 
-[HydroShare](https://www.hydroshare.org/resource/05a297372ffb4263907953a56366a27c/) or on your local PC.
-
 **Suggested Citation**
 
-Gan, T., Tucker, G. E., Overeem, I., Pierce, E. (2023). Data Component Use Case for Permafrost Processes, HydroShare, https://www.hydroshare.org/resource/05a297372ffb4263907953a56366a27c/
+Gan, T., Tucker, G. E., Overeem, I., Pierce, E. (2023). Data Component Use Case for Permafrost Processes, HydroShare, [https://www.hydroshare.org/resource/05a297372ffb4263907953a56366a27c/](https://www.hydroshare.org/resource/c4ebe3515a894446bf26aba0aedd7fdd/)
 
 
