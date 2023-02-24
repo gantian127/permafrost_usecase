@@ -19,6 +19,6 @@ You can test and run this Jupyter Notebook through
 
 **Suggested Citation**
 
-Gan, T., Tucker, G. E., Overeem, I. (2022). Data Component Use Case for Permafrost Processes, HydroShare, https://www.hydroshare.org/resource/05a297372ffb4263907953a56366a27c/
+Gan, T., Tucker, G. E., Overeem, I., Pierce, E. (2023). Data Component Use Case for Permafrost Processes, HydroShare, https://www.hydroshare.org/resource/05a297372ffb4263907953a56366a27c/
 
 
