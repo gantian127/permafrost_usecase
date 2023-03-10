@@ -14,3 +14,4 @@ dependencies:
   - imageio-ffmpeg
   - matplotlib
   - jupyter
+  - tqdm
