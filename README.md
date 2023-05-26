@@ -1,4 +1,4 @@
-# Data Component Use Case for Permafrost Processes
+# Data Component Use Case for Permafrost Thaw and Hillslope Diffusion
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gantian127/permafrost_usecase/blob/master/LICENSE.txt)
 
 
