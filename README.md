@@ -33,7 +33,7 @@ Please first download all the files from this repository and have
 [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) installed on the local PC.
 Then, use the following commands to create a virtual environment and launch the Jupyter Notebook.
 ```
-$ cd overlandflow_usecase
+$ cd permafrost_usecase
 $ conda env create --file=environment.yml
 $ conda activate permafrost_usecase
 $ jupyter notebook
