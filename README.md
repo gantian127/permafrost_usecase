@@ -8,7 +8,7 @@ topography, snow and temperature data to calculate the permafrost active layer t
 and simulate the hillslope diffusion process for a study area in Alaska.
 
 This Jupyter Notebook is part of the work for a research paper 
-"CSDMS Data Components: data-model integration tools for Earth surface processes modeling".
+["CSDMS Data Components: data-model integration tools for Earth surface processes modeling"](https://doi.org/10.5194/gmd-2023-127).
 
 
 ### Notebook Citation
@@ -23,15 +23,17 @@ You can choose the following methods to run this Jupyter Notebook:
 Please go to the [HydroShare Resource](https://www.hydroshare.org/resource/c4ebe3515a894446bf26aba0aedd7fdd/) 
 and follow the instruction in the **"Abstract"** section to run this notebook.
 
+<!---
 #### Method 2: CSDMS
 Please go to the [CSDMS EKT Lab](https://csdms.colorado.edu/wiki/Lab-0032) 
 and follow the instruction in the **"Lab notes"** section to run this notebook.
+-->
 
 
-#### Method 3: Local PC
+#### Method 2: Local PC
 Please first download all the files from this repository and have 
 [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) installed on the local PC.
-Then, use the following commands to create a virtual environment and launch the Jupyter Notebook.
+Then, use the following commands to create a virtual environment and launch the Jupyter Notebook. The code below works best on Mac OS or Linux and may cause some errors on Windows.
 ```
 $ cd permafrost_usecase
 $ conda env create --file=environment.yml
