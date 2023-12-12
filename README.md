@@ -13,7 +13,7 @@ This Jupyter Notebook is part of the work for a research paper
 
 ### Notebook Citation
 Gan, T., Tucker, G. E., Overeem, I., Pierce, E. (2023). 
-Data Component Use Case for Permafrost Thaw and Hillslope Diffusion, HydroShare, https://www.hydroshare.org/resource/c4ebe3515a894446bf26aba0aedd7fdd/
+Data Component Use Case for Permafrost Thaw and Hillslope Diffusion, HydroShare, https://doi.org/10.4211/hs.c4ebe3515a894446bf26aba0aedd7fdd
 
 
 ### Run the Notebook
