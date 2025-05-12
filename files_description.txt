@@ -1,0 +1,33 @@
+This document describes the folders and files in this project:
+
+- cache_alaska: this folder includes the ERA5 and DEM data for the study sites.
+    - era5_1980.nc: a netCDF file for ERA5 data (monthly mean for air temperature, snow
+      density and snow depth for 1980-1989)
+    - era5_2010.nc: a netCDF file for ERA5 data (monthly mean for air temperature, snow
+      density and snow depth for 2010-2019)
+    - COP30_63.84_-149.29_63.92_-149.21.tif: a GeoTiff file for the elevation data of
+      the study area
+
+- config_files_alaska: this folder includes configuration files for creating ERA5 and
+  Topography Data components
+  - dem_config.yaml: a configuration file used to create Topography Data Component
+  - era5_1980_config.yaml: a configuration file used to create the ERA5 Data Component
+    (data for 1980-1989)
+  - era5_2020_config.yaml: a configuration file used to create the ERA5 Data Component
+    (data for 2010-2019)
+
+ - results_alaska: this folder includes the plot results of the simulated elevation
+   - elev_XXX.png: plot files for simulated elevation result at each time step (50 year)
+   - hillslope.mp4: a video file to show the changes of the elevation over 1000 years
+
+  - environment.yml: a yaml file to create a conda environment to run the Jupyter Notebook
+
+  - LICENSE.txt: MIT license for the project
+
+  - permafrost.png: a figure to show the permafrost distribution over Alaska
+
+  - permafrost_alaska.ipynb: a Jupyter notebook for permafrost thaw and hill slope diffusion
+
+  - README.md: a Markdown file that gives a brief introduction of the project
+
+  - utils.py: a Python file including utility functions that are used by the Jupyter Notebook
